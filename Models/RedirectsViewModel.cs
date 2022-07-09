@@ -1,4 +1,4 @@
-namespace AspNetCoreTodo.Models
+namespace UrlRedirector.Models
 {
     public class RedirectsViewModel
     {

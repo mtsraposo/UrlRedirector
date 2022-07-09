@@ -7,9 +7,9 @@
 
   <ItemGroup>
     <None Update="app.db" CopyToOutputDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
-    <None Update="Test1.mdf" CopyToOutputDirectory="PreserveNewest" ExcludeFromSingleFile="true"/>
-    <None Update="Test1.ldf" CopyToOutputDirectory="PreserveNewest" ExcludeFromSingleFile="true"/> 
-    <None Update="SampleDB.sqlite.db" Link="UrlRedirector.sqlite.db" CopyToOutputDirectory="PreserveNewest" ExcludeFromSingleFile="true"/> 
+    <None Update="Test1.mdf" CopyToOutputDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
+    <None Update="Test1.ldf" CopyToOutputDirectory="PreserveNewest" ExcludeFromSingleFile="true" /> 
+    <None Update="SampleDB.sqlite.db" Link="UrlRedirector.sqlite.db" CopyToOutputDirectory="PreserveNewest" ExcludeFromSingleFile="true" /> 
   </ItemGroup>
 
   <ItemGroup>

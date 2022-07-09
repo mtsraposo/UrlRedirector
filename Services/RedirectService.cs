@@ -2,12 +2,12 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using AspNetCoreTodo.Data;
-using AspNetCoreTodo.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
+using UrlRedirector.Data;
+using UrlRedirector.Models;
 
-namespace AspNetCoreTodo.Services
+namespace UrlRedirector.Services
 {
 
 /*

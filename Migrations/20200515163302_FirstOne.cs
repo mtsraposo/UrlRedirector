@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace AspNetCoreTodo.Migrations
+namespace UrlRedirector.Migrations
 {
     public partial class FirstOne : Migration
     {

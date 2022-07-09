@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Identity;
 
-namespace AspNetCoreTodo.Models {
+namespace UrlRedirector.Models {
     public class NotApplicationUser : IdentityUser
     {
     }

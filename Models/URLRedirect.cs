@@ -1,10 +1,10 @@
 using System;
 using System.ComponentModel.DataAnnotations;
-namespace AspNetCoreTodo.Models
+namespace UrlRedirector.Models
 {
     public class URLRedirect
     {
-        [KeyAttribute]
+        [Key]
         public string Id { get; set; }
         public string UserId { get; set; }
         [Required]

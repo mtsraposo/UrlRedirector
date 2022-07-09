@@ -1,10 +1,10 @@
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using AspNetCoreTodo.Models;
 using Microsoft.AspNetCore.Identity;
+using UrlRedirector.Models;
 
-namespace AspNetCoreTodo.Services
+namespace UrlRedirector.Services
 {
     public interface IRedirectService
     {

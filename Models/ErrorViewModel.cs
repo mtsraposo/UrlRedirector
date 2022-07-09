@@ -1,6 +1,6 @@
 using System;
 
-namespace AspNetCoreTodo.Models
+namespace UrlRedirector.Models
 {
     public class ErrorViewModel
     {
